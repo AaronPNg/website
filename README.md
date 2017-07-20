@@ -1,2 +1,2 @@
 # website
-First atempt at makeing a website
+First atempt at making a website
